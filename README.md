@@ -53,4 +53,4 @@ To achieve the 100MHz system core clock execution rate, the PLL multiplexer was 
 Below is a capture of the debugger verifying the non-blocking state transitions in real-time:
 
 ![Pulse View Output](assets/pulseview1.jpeg)
-![Debugger Execution](assets/debugger1.gif)
+<video src="assets/debugger1.mp4" controls="controls" width="100%"></video>
