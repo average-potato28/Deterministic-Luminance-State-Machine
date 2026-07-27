@@ -37,7 +37,7 @@ During the development of this bare-metal sequencer, several critical embedded s
 
 Here is the physical wiring and component breakdown for the state machine:
 
-watch this youtube detailed video [![Watch the Video](assets/stm32.jpeg)](https://www.youtube.com/watch?v=HGSwkWCmukeONQcU)
+watch this youtube detailed video [![Watch the Video](assets/stm32.jpeg)](https://www.youtube.com/watch?v=LIbD8AXFuw8)
 ![ST-Link V2](assets/stlinkv2.jpeg)
 ![Logic Analyzer](assets/logic_analyser.jpeg)
 ![Wiring Diagram](assets/wiring.jpeg)
