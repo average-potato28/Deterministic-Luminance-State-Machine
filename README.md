@@ -37,8 +37,8 @@ During the development of this bare-metal sequencer, several critical embedded s
 
 Here is the physical wiring and component breakdown for the state machine:
 
+watch this youtube detailed video [![Watch the Video](assets/stm32.jpeg)](https://www.youtube.com/watch?v=HGSwkWCmukeONQcU)
 ![ST-Link V2](assets/stlinkv2.jpeg)
-![STM32](assets/stm32.jpeg)
 ![Logic Analyzer](assets/logic_analyser.jpeg)
 ![Wiring Diagram](assets/wiring.jpeg)
 
@@ -53,4 +53,4 @@ To achieve the 100MHz system core clock execution rate, the PLL multiplexer was 
 Below is a capture of the debugger verifying the non-blocking state transitions in real-time:
 
 ![Pulse View Output](assets/pulseview1.jpeg)
-<video src="https://raw.githubusercontent.com/average-potato28/Deterministic-Luminance-State-Machine/main/assets/debugger1.mp4" controls="controls" width="100%"></video>
+![Debugger Execution](assets/debugger1.gif)
